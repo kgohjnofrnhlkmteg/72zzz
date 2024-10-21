@@ -1,0 +1,48 @@
+div.bb p{
+    color: blueviolet;
+}
+div.b h2{
+    color: red;
+}
+#block p{
+    color: blue;
+}
+#block1 h2{
+    color: darkblue;
+}
+.bbb{
+    color: green;
+}
+#block3 .bbb1{
+    color: violet;
+}
+p.bbb2{
+    color: hotpink;
+}
+#block p.bbb {
+    color: aqua;
+}
+.bbb, .xxx {
+    color: yellow;
+}
+p.bbb, h2.xxx {
+    color: greenyellow;
+}
+#block p.bbb, #block p.xxx {
+    color: pink;
+}
+.fff {
+    color: indigo;
+}
+.fff p {
+    color: blueviolet;
+}
+p.fff {
+    color: brown;
+}
+.fff .bbb {
+    color: darkgreen;
+}
+.fff h2.bbb {
+    color: coral;
+}
